@@ -1,0 +1,5 @@
+tensorflow==2.16.1
+tensorflow-datasets==4.9.4
+matplotlib==3.9.0
+pydot==2.0.0
+graphviz==0.20.3
